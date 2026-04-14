@@ -4,5 +4,6 @@ A real-time computer vision project that enables users to write in the air using
 
 ```bash
 cd ~/Documents/air-writing-opencv
+python3 -m venv venv
 source venv/bin/activate
 python main.py
